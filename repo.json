@@ -1,4 +1,4 @@
-{
+[
   {
     "Author": "Solandus",
     "Name": "VPF",
@@ -25,4 +25,4 @@
     "DownloadLinkTesting": "https://github.com/Solandus/FFXIVPlugins/plugins/VPF/VPF_0.0.0.1.zip",
     "DownloadLinkUpdate": "https://github.com/Solandus/FFXIVPlugins/plugins/VPF/VPF_0.0.0.1.zip"
   }
-}
+]
