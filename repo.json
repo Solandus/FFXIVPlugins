@@ -3,7 +3,7 @@
     "Author": "Solandus",
     "Name": "VPF",
     "InternalName": "VPF",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "Description": "This plugin reinitializes the Party Finder automatically as soon as it has run out after one hour.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Solandus/FFXIVPlugins",
@@ -21,8 +21,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/VPF_0.0.0.1.zip",
-    "DownloadLinkTesting": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/VPF_0.0.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/VPF_0.0.0.1.zip"
+    "DownloadLinkInstall": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/latest.zip"
   }
 ]
