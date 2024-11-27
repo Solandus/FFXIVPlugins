@@ -21,6 +21,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkTesting": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/test.zip"
+    "DownloadLinkInstall": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/test.zip",
+    "DownloadLinkUpdate": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/latest.zip"
   }
 ]
