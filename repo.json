@@ -22,7 +22,31 @@
     "DownloadCount": 0,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/test.zip",
+    "DownloadLinkTesting": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/latest.zip"
+  },
+  {
+    "Author": "Solandus",
+    "Name": "VPF",
+    "InternalName": "VPF",
+    "AssemblyVersion": "0.0.0.3",
+    "Description": "This plugin reinitializes the Party Finder automatically as soon as it has run out after one hour.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Solandus/FFXIVPlugins",
+    "Tags": [
+      "VPF"
+    ],
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A plugin for refreshing the party finder when it ended.",
+    "AcceptsFeedback": false,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkTesting": "https://github.com/Solandus/FFXIVPlugins/raw/main/plugins/VPF/test.zip"
   }
 ]
